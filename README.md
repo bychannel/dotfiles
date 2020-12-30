@@ -22,7 +22,7 @@ tools：i3-gaps + i3blocks + Zsh + SpaceVim + Rofi + Neofetch + ...
 **For the window manager:**
 
 | Package                                                      | Description                                |
-| ------------------------------------------------------------ | ------------------------------------------ |
+| ------------------------------------------------------------ | :----------------------------------------- |
 | [i3-gaps](https://github.com/Airblader/i3)                   | i3wm加强版                                 |
 | [i3blocks](https://github.com/vivien/i3blocks)               | i3status替代品，显示i3bar的状态信息        |
 | [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)        | 加强版字体图标补丁 (我使用Source Code Pro) |
@@ -33,6 +33,9 @@ tools：i3-gaps + i3blocks + Zsh + SpaceVim + Rofi + Neofetch + ...
 | xfce4-power-manager                                          | 电池状态监控                               |
 | xfce4-notifyd                                                | 获取GTK通知的一种简单方式                  |
 | [pacman-contrib](https://www.archlinux.org/packages/?name=pacman-contrib) | pacman一个好用的辅助工具                   |
+| betterlockscreen                                             | 一个简单好用的锁屏工具                     |
+
+
 
 ------
 
